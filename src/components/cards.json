@@ -1,0 +1,22 @@
+[
+    {
+        "clicked": false,
+        "imageURL":"../images/space.png",
+        "altText":"Space"
+    },
+    {
+        "clicked": false,
+        "imageURL":"../images/socrates.png",
+        "altText":"Socrates"
+    },
+    {
+        "clicked": false,
+        "imageURL":"../images/rps.png",
+        "altText":"RPS"
+    },
+    {
+        "clicked": false,
+        "imageURL":"../images/eiffel.png",
+        "altText":"Eiffel"
+    }
+]
