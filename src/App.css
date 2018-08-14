@@ -26,3 +26,14 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+img {
+  max-width: 200px;
+  margin: 10px;
+}
+
+div#root {
+  margin: auto;
+  width: 80%;
+}

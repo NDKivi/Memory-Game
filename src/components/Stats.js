@@ -2,7 +2,7 @@ import React from "react";
 
 const Stats = (props) => {
     return (
-        <section><h5>Count:</h5><span>{props.count}</span></section>
+        <div><section><span>Current Score: </span><span>{props.count}</span></section><section><span>High Score: </span><span>{props.highScore}</span></section></div>
     );
 };
 
